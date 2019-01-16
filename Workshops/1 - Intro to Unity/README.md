@@ -1,1 +1,1 @@
-# YouTube Video
+# YouTube Video of the Workshop
