@@ -6,6 +6,4 @@ We are looking for students who have experience in 3D modeling with CAD software
 
 If you are interested in participating in the challenge, the first step is to join the Slack group at: makerspacevrchallenge.slack.com. Slack is the main communication channel for the competition, and anyone with a uOttawa email can join directly. The second step is to come to the workshop sessions. Workshops take place every Wednesday at 6 pm in the Design Commons room (whiteboard room) on the first floor of the STEM building next to the MakerSpace. Workshops are hands-on, bring your laptops and we will build apps for the latest VR headsets together.
 
-If you have any other questions please send a message to Elisha on Slack, or email her at eprun034@uottawa.ca.
-
 Hope to see you at this week's workshop!
