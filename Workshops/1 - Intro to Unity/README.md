@@ -16,7 +16,7 @@ https://youtu.be/f2k5GIPid9I
 https://youtu.be/b9JderfPtew
 
 ## 6. Textures
-https://youtu.be/AOoqneXve6k
+https://youtu.be/x4qTaDgEQ9g
 
 
 # YouTube Video of Entire Workshop
