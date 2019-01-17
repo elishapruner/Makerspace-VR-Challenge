@@ -19,5 +19,5 @@ https://youtu.be/b9JderfPtew
 https://youtu.be/x4qTaDgEQ9g
 
 
-# YouTube Video of Entire Workshop
+## 7. YouTube Video of the Entire Workshop
 https://youtu.be/qFAjyRZoWmw
