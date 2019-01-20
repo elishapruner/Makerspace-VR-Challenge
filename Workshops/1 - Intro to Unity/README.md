@@ -1,4 +1,6 @@
-# YouTube Videos
+(https://user-images.githubusercontent.com/7401790/51446276-d47fb480-1cdd-11e9-835c-986c277b1750.png)
+
+# Intro to Unity Videos
 
 ## 1. New Project in Unity
 https://youtu.be/kp29bXf4FZ0
@@ -18,14 +20,18 @@ https://youtu.be/b9JderfPtew
 ## 6. Textures
 https://youtu.be/x4qTaDgEQ9g
 
-## 7. Chemotherapy
+
+# Chemotherapy and Radiation Therapy Videos
+
+## 1. Chemotherapy
 https://youtu.be/WSUBGOtva0I
 
-## 8. Radiation Therapy
+## 2. Radiation Therapy
 https://youtu.be/zecm_7sNYHs
 
-## 9. VR Game for Vaccines
+## 3. VR Game for Vaccines
 https://youtu.be/9CPVOt7QjcM
 
-## 10. Workshop1 Full (1.5 hrs)
+
+# Full Workshop (1.5 hrs)
 https://youtu.be/qFAjyRZoWmw
