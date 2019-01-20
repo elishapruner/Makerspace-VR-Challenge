@@ -1,6 +1,6 @@
 # Makerspace-VR-Challenge
 
-(https://user-images.githubusercontent.com/7401790/51446176-65559080-1cdc-11e9-9d6c-eca5bb8d8fca.jpg)
+![vr-patient](https://user-images.githubusercontent.com/7401790/51446315-73a4ac00-1cde-11e9-92be-b2fb9ff6d96e.jpg)
 
 The MakerSpace Virtual Reality Challenge begins January 16 and runs until the end of March. For this challenge, the Richard L'Abbe MakerSpace is partnering with the Ottawa Hospital to create apps in VR that help with patient care during chemotherapy and radiation therapy treatments. This challenge is open to all students from beginners to any level of experience. We will be holding weekly workshops and mentoring sessions to get you up to speed on the latest in VR.  
 
