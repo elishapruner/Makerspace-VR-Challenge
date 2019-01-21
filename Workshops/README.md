@@ -1,3 +1,5 @@
+# Workshop Schedule
+
 | Week |    Date     |
 | ---- | ----------- |
 |  1   | January 16  |
