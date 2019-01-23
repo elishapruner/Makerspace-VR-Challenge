@@ -22,17 +22,5 @@ https://youtu.be/b9JderfPtew
 https://youtu.be/x4qTaDgEQ9g
 
 
-# Chemotherapy and Radiation Therapy Videos
-
-## 1. Chemotherapy
-https://youtu.be/WSUBGOtva0I
-
-## 2. Radiation Therapy
-https://youtu.be/zecm_7sNYHs
-
-## 3. VR Game for Vaccines
-https://youtu.be/9CPVOt7QjcM
-
-
 # Full Workshop (1.5 hrs)
 https://youtu.be/qFAjyRZoWmw
