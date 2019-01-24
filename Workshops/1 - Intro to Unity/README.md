@@ -20,7 +20,3 @@ https://youtu.be/b9JderfPtew
 
 ## 6. Textures
 https://youtu.be/x4qTaDgEQ9g
-
-
-# Full Workshop (1.5 hrs)
-https://youtu.be/qFAjyRZoWmw
