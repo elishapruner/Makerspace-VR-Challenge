@@ -28,7 +28,7 @@ https://youtu.be/gXLhmkgOpgI
 https://youtu.be/cnVHw-5u-88
 
 
-# 360 Degree Videos
+# 360 Degree Skybox Videos
 
 ## Basic Video Stitching (1 of 3) - Autopano Video Pro Tutorial 1
 https://youtu.be/dBWqiTZbGzw
