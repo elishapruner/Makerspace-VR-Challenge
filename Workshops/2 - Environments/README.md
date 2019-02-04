@@ -1,4 +1,4 @@
-<img width="1440" alt="workshop2" src="https://user-images.githubusercontent.com/7401790/51446372-3c82ca80-1cdf-11e9-894a-ece763725bca.png">
+[//]: <img width="1440" alt="workshop2" src="https://user-images.githubusercontent.com/7401790/51446372-3c82ca80-1cdf-11e9-894a-ece763725bca.png">
 
 <img width="1440" alt="terrain" src="https://user-images.githubusercontent.com/7401790/51748520-ace07180-207a-11e9-9768-31dad315f280.png">
 
