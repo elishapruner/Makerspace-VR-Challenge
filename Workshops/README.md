@@ -8,7 +8,7 @@
 |  4   | February 6  | VR Interactions for Chemotherapy and Radiation Therapy | Justin Sutherland |
 |  5   | February 13 | Blender Modeling, Rigging, and Animation               | Elisha Pruner     |
 |  6   | February 20 | Reading Week                                           | No Workshop       |
-|  7   | February 27 | Animation in Unity                                     | Elisha Pruner     |
+|  7   | February 27 | Unity Interactions and Animation                       | Elisha Pruner     |
 |  8   | March 6     | Student Led Tutorials                                  | Students          |
 |  9   | March 13    | Student Led Tutorials                                  | Students          |
 |  10  | March 20    | Student Led Tutorials                                  | Students          |
