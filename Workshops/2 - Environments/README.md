@@ -28,11 +28,11 @@ https://youtu.be/ueqx3pEGdEo
 ## 7. Position the Camera in the Terrain
 https://youtu.be/gXLhmkgOpgI
 
-## 8. Real-World Skybox using Google Street View
+## 8. Real-World Sphere Skybox using Google Street View
 https://youtu.be/cnVHw-5u-88
 
 
-# 360 Degree Skybox Videos
+# 360 Degree Sphere Skybox Videos
 
 ## Basic Video Stitching (1 of 3) - Autopano Video Pro Tutorial 1
 https://youtu.be/dBWqiTZbGzw
