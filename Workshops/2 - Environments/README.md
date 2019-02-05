@@ -2,6 +2,8 @@
 
 <img width="1440" alt="terrain" src="https://user-images.githubusercontent.com/7401790/51748520-ace07180-207a-11e9-9768-31dad315f280.png">
 
+<img width="1440" alt="custom skybox" src="https://user-images.githubusercontent.com/7401790/52247982-2b7ab180-28ba-11e9-93df-23156f0e97a9.png">
+
 
 # Workshop 2 Videos
 
