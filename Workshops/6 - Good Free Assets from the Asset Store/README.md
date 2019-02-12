@@ -1,7 +1,5 @@
 # Good Free Assets from the Asset Store
 
-Best Assets of 2018 for Unity Video: https://youtu.be/SuldrhZ6qUM
-
 ## 1. Book of the Dead Environment
 
 ![book of the dead](https://user-images.githubusercontent.com/7401790/52665235-18c73480-2ed9-11e9-9534-d4289bfdd068.jpg)
@@ -43,3 +41,7 @@ Tutorial: https://youtu.be/jUw8g_2lm4Y
 ![corridor lighting](https://user-images.githubusercontent.com/7401790/52665717-32b54700-2eda-11e9-846a-c0cafc8a2231.jpg)
 
 https://assetstore.unity.com/packages/essentials/tutorial-projects/corridor-lighting-example-33630
+
+
+# Best Assets of 2018 for Unity Video
+https://youtu.be/SuldrhZ6qUM
