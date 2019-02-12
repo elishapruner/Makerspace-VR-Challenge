@@ -18,7 +18,7 @@ https://assetstore.unity.com/packages/essentials/asset-packs/unity-particle-pack
 Tutorial: https://youtu.be/XzfhcdCfc1Q
 
 
-# 3. Unity's 3D Game Kit
+## 3. Unity's 3D Game Kit
 
 ![3d game kit](https://user-images.githubusercontent.com/7401790/52665545-e0742600-2ed9-11e9-8a44-ccbb17450535.jpg)
 
@@ -27,21 +27,21 @@ https://assetstore.unity.com/packages/essentials/tutorial-projects/3d-game-kit-1
 Tutorial: https://youtu.be/qsU4nM0L_n0
 
 
-# 4. Unity's Standard Assets
+## 4. Unity's Standard Assets
 
 ![standard assets](https://user-images.githubusercontent.com/7401790/52672705-9a748d80-2eec-11e9-8210-5e51ca2d9523.jpg)
 
 https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-32351
 
 
-# 5. Low Poly Game kit
+## 5. Low Poly Game kit
 
 ![low poly game kit](https://user-images.githubusercontent.com/7401790/52665640-0ef20100-2eda-11e9-8312-7b8f04313b18.jpg)
 
 https://assetstore.unity.com/packages/templates/packs/low-poly-game-kit-110455
 
 
-# 6. Corridor Lighting Example
+## 6. Corridor Lighting Example
 
 ![corridor lighting](https://user-images.githubusercontent.com/7401790/52665717-32b54700-2eda-11e9-846a-c0cafc8a2231.jpg)
 
