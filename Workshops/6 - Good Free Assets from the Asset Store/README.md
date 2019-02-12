@@ -6,7 +6,7 @@
 
 https://assetstore.unity.com/packages/essentials/tutorial-projects/book-of-the-dead-environment-121175
 
-https://youtu.be/RgoWScCiA7Q
+Tutorial: https://youtu.be/RgoWScCiA7Q
 
 
 ## 2. Unity Particle pack
@@ -15,7 +15,7 @@ https://youtu.be/RgoWScCiA7Q
 
 https://assetstore.unity.com/packages/essentials/asset-packs/unity-particle-pack-5-x-73777
 
-https://youtu.be/XzfhcdCfc1Q
+Tutorial: https://youtu.be/XzfhcdCfc1Q
 
 
 # 3. Unity's 3D Game Kit
@@ -24,7 +24,7 @@ https://youtu.be/XzfhcdCfc1Q
 
 https://assetstore.unity.com/packages/essentials/tutorial-projects/3d-game-kit-115747
 
-https://youtu.be/qsU4nM0L_n0
+Tutorial: https://youtu.be/qsU4nM0L_n0
 
 
 # 4. Low Poly Game kit
@@ -33,7 +33,7 @@ https://youtu.be/qsU4nM0L_n0
 
 https://assetstore.unity.com/packages/templates/packs/low-poly-game-kit-110455
 
-https://youtu.be/jUw8g_2lm4Y
+Tutorial: https://youtu.be/jUw8g_2lm4Y
 
 
 # 5. Corridor Lighting Example
