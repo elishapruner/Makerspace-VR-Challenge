@@ -43,5 +43,5 @@ Tutorial: https://youtu.be/jUw8g_2lm4Y
 https://assetstore.unity.com/packages/essentials/tutorial-projects/corridor-lighting-example-33630
 
 
-# Best Assets of 2018 for Unity Video
+# Best Assets of 2018 for Unity - Paid and Free
 https://youtu.be/SuldrhZ6qUM
