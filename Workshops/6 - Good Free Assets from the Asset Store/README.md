@@ -9,7 +9,7 @@ https://assetstore.unity.com/packages/essentials/tutorial-projects/book-of-the-d
 Tutorial: https://youtu.be/RgoWScCiA7Q
 
 
-## 2. Unity Particle pack
+## 2. Unity's Particle Pack
 
 ![particle pack](https://user-images.githubusercontent.com/7401790/52665470-a7d44c80-2ed9-11e9-8269-4b6ee66214ea.jpg)
 
