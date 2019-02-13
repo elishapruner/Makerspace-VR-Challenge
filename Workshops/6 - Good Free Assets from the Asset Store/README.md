@@ -50,7 +50,7 @@ https://assetstore.unity.com/packages/essentials/tutorial-projects/corridor-ligh
 
 ## 7. Unity Post Processing Stack
 
-![post processing](http://i.imgur.com/yhu5dX8.gif)
+![post processing](https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/9278940e-4bf7-4b83-8436-fc3e69fb48cc_scaled.jpg)
 
 https://assetstore.unity.com/packages/essentials/post-processing-stack-83912
 
