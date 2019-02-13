@@ -48,5 +48,12 @@ https://assetstore.unity.com/packages/templates/packs/low-poly-game-kit-110455
 https://assetstore.unity.com/packages/essentials/tutorial-projects/corridor-lighting-example-33630
 
 
+## 7. Unity Post Processing Stack
+
+![post processing](http://i.imgur.com/yhu5dX8.gif)
+
+https://assetstore.unity.com/packages/essentials/post-processing-stack-83912
+
+
 # Best Assets of 2018 for Unity - Paid and Free
 https://youtu.be/SuldrhZ6qUM
